@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-docker",
+  "version": "1.0.0",
+  "description": "Run puppeteer inside docker container on most linux servers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnssureIT/puppeteer-docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnssureIT/puppeteer-docker/issues"
+  },
+  "homepage": "https://github.com/EnssureIT/puppeteer-docker#readme",
+  "dependencies": {
+    "puppeteer": "^5.3.1"
+  }
+}
